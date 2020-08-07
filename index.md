@@ -5,6 +5,23 @@ You can use the [editor on GitHub](https://github.com/happyendingddd/happyending
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Personal Information
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h3>Yingying Han</h3>
+      <p><b>Graduate</b></p>
+      <p><b>Nanjing Agricultural University</b></p>
+      <p><b>E-mail：2816568496@qq.com</b></p>
+      <p><b>Address：WG NO.1, Xuanwu, Nanjing，Code210095</b></p>
+    </td>
+    <td width="25%">
+      <img src="/HANYINGYING2.jpg" width="100%">     
+    </td>
+  </tr>
+</table>
+
+
+
 ### Latest News
 ### Research Interests
 ### Education Experence
